@@ -1,0 +1,8 @@
+#!/bin/bash
+
+stow git
+stow i3
+stow neofetch
+stow vim
+stow x11
+stow zsh
