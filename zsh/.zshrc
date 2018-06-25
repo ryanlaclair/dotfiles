@@ -3,7 +3,7 @@ ZSH=/usr/share/oh-my-zsh/
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
-ZSH_THEME="af-magic"
+ZSH_THEME="avit"
 
 # Uncomment the following line to disable bi-weekly auto-update checks.
 DISABLE_AUTO_UPDATE="true"
