@@ -175,6 +175,7 @@ bar {
     background #1d1f21
     statusline #5f819d
     focused_workspace #5f819d #1d1f21 #5f819d
+    urgent_workspace #f0c674 #1d1f21 #f0c674
   }
   status_command i3status
 }
