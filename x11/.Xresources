@@ -11,7 +11,7 @@ URxvt.scrollBar: false
 URxvt.url-launcher: google-chrome-stable
 URxvt.font: xft:DejaVu Sans Mono:pixelsize=12:antialias=true:hinting=true
 URxvt.boldFont: xft:DejaVu Sans Mono:bold:pixelsize=12:antialias=true:hintint=true
-URxvt.internalBorder: 10
+URxvt.internalBorder: 20
 URxvt.cursorUnderline: 1
 
 ! Colors
