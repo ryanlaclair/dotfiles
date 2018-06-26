@@ -20,6 +20,7 @@ DISABLE_AUTO_UPDATE="true"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
+  docker
 )
 
 # Preferred editor
