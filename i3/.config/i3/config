@@ -173,8 +173,9 @@ bar {
   font xft:DejaVu Sans Mono 10
   colors {
     background #1d1f21
-    statusline #5f819d
+    statusline #c5c8c6
     focused_workspace #5f819d #1d1f21 #5f819d
+    inactive_workspace #c5c8c6 #1d1f21 #c5c8c6
     urgent_workspace #f0c674 #1d1f21 #f0c674
   }
   status_command i3status
