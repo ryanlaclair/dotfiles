@@ -53,6 +53,9 @@ floating_modifier $mod
 # Background color
 exec --no-startup-id xsetroot -solid "$color8" 
 
+# Compton
+exec compton --backend glx --vsync opengl-swc -D 1
+
 # open chrome in current workspace
 for_window [class="*chrome*"] move window to current workspace
 
